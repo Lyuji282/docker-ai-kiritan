@@ -18,11 +18,9 @@ Docker環境でAIきりたんが動きます。
 
 Linux版のNEUTRINOをdownloadして、
 
-`./src`下に配置してください。
-
 `NEUTRINO-Linux`
 
-という名前で配置してください。
+という名前で`./src`下に配置してください。
 
 (デフォルトではNEUTRINOという名前です)
 
