@@ -1,5 +1,6 @@
 # docker-ai-kiriain
 
+
 ## 概要
 
 Docker環境でAIきりたんが動きます。
@@ -8,6 +9,19 @@ Docker環境でAIきりたんが動きます。
 ## 環境
 
 - docker/docker-compose
+
+
+## docker/docker-composeのインストール方法
+
+
+この2つの記事を参考にしてみてください。
+
+
+https://awesome-linus.com/2019/08/17/mac-docker-install/
+
+https://note.com/jinbay/n/n90fa87be2673
+
+
 
 
 ## 初期設定
@@ -25,7 +39,21 @@ Linux版のNEUTRINOをdownloadして、
 (デフォルトではNEUTRINOという名前です)
 
 
-## コマンド
+
+次に
+
+[ここから](https://www.vector.co.jp/download/file/winnt/art/fh725390.html)
+
+AI きりたん本体をdownloadします。
+
+donwloadできたら
+
+`KIRITAN`のフォルダーを`./src/NEUTRINO-Linux/model/`以下に配置してください。
+
+
+
+
+## 起動コマンド
 
 
 ### docker起動
